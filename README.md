@@ -4,10 +4,10 @@
 **Akash-G3/Akash-G3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+### Software Engineer
 
- 🔭 I’m currently working on Web Application Projects </br>
- 🌱 I’m currently learning Full stack development </br>
- 📫 How to reach me: You can contact me through email and my linkedIn / Social media handles</br>
- 📚  My favourite thing about myself is , no matter how difficult things are I am willing to put in the work to make it work.
+I build software systems and try to understand how they actually work under the hood.  
+I work across backend and frontend in web development, depending on what the problem needs.  
 
+I also teach what I learn — mostly because it helps me think better.
 
